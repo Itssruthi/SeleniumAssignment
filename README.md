@@ -4,7 +4,7 @@
 
 Two scenarios are covered:
 1. Create Account with Email
-2. Create Account FaceBook Sign In
+2. Create Account with FaceBook Sign In
 
 Versions used for testing:
 1. Selenium-Java : 3.8.1
