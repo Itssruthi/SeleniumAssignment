@@ -11,4 +11,4 @@ Versions used for testing:
 2. Gecko Driver : geckodriver-v0.19.1-macos.tar
 3. firefox : 57.0.4
 
-<b>Note:</b> There could be many scenarios but this assignment covers the most common scenarios.
+<b>Note:</b> There could be many scenarios but this assignment covers the happy path scenarios.
